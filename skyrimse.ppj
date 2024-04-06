@@ -1,0 +1,16 @@
+<?xml version='1.0'?><!-- Game is either sse, tesv, or fo4 -->
+<PapyrusProject xmlns="PapyrusProject.xsd" 
+    Flags="TESV_Papyrus_Flags.flg" 
+    Game="sse" 
+    Output="Scripts" 
+    Optimize="false" 
+    Release="false" 
+    Final="false">
+    <Imports>
+        <Import>F:\Projects\Skyrim Modding\0_Sources</Import>
+        <Import>D:\Games\Skyrim Anniversary Edition\Data\Source\Scripts</Import>
+    </Imports>
+    <Folders>
+        <Folder>.\Scripts\Source</Folder>
+    </Folders>
+</PapyrusProject>
